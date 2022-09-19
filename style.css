@@ -21,10 +21,24 @@
 color: rgb(168, 168, 168);
 }
 
-.testofoto{
+#font-size-foto{
     font-size: small;
 }
 
 #evidenziatore{
     background-color: rgb(251, 255, 0);
+}
+
+th{
+    width: 300px; ;
+    color: white;
+    background-color: #509af7;
+}
+
+tr{
+    height: 50px;
+}
+
+.tbcolor{
+    background-color: rgb(125, 214, 214);
 }
