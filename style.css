@@ -25,14 +25,15 @@ color: rgb(168, 168, 168);
     font-size: small;
 }
 
-#evidenziatore{
+.evidenziatore{
     background-color: rgb(251, 255, 0);
 }
 
-th{
-    width: 300px; ;
+thead{
+    width: 100px; ;
     color: white;
     background-color: #509af7;
+    border: 0px;
 }
 
 tr{
@@ -41,4 +42,16 @@ tr{
 
 .tbcolor{
     background-color: rgb(125, 214, 214);
+}
+
+#white1{
+    position: absolute;
+    color: white;
+    left: 20px;
+}
+
+#white2{
+    position: absolute;
+    color: white;
+    left: 20px;
 }
