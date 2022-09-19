@@ -1,0 +1,14 @@
+#logo{
+    width: 180px;
+    position: absolute;
+    top: 45%;
+    left: 10px;
+}
+
+#bg-logo{
+    position: relative;
+    background-image: url(img/pattern.png);
+    height: 100px;
+    background-size: 400px;
+    background-color: #509af7 ;
+}
