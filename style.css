@@ -12,3 +12,19 @@
     background-size: 400px;
     background-color: #509af7 ;
 }
+
+#azzurro{
+    color: rgb(2, 170, 212);
+}
+
+.lightgray{
+color: rgb(168, 168, 168);
+}
+
+.testofoto{
+    font-size: small;
+}
+
+#evidenziatore{
+    background-color: rgb(251, 255, 0);
+}
